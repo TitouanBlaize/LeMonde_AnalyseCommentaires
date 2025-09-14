@@ -1,5 +1,6 @@
 bs4
 dotenv
 mistralai
+psycopg2-binary
 requests
 selenium
