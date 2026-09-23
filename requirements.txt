@@ -1,6 +1,6 @@
-bs4
-dotenv
+beautifulsoup4
+flask
 mistralai
-psycopg2-binary
+python-dotenv
 requests
 selenium
